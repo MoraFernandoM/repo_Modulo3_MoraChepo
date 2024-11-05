@@ -1,0 +1,9 @@
+#tipos de archivo que no deben subirse al repositorio.
+
+
+*.csv
+*.zip
+*.xlsx
+*.json
+*.pdf
+*.rar
