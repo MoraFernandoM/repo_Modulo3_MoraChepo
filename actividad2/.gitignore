@@ -1,0 +1,6 @@
+#documento para ignorar tipos de archivo
+
+*.xlsx
+*.pdf
+*.csv
+*.exe
